@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @priynkasingh
-- 🎓 I’m a Biochemical Engg graduate with a Econ minor
-- 🌱 I’m currently learning Finance/ Data Science  
-- 📫 Looking forward to doing many data science projects :D
+- 🎓 I’m a Biochemical Engg graduate with a Econ minor from IIT Delhi
+- 🌱 I’m working as a technical consultant in the FinTech Domain 
+- 📫 Transitioning to Data Science in the meanwhile
