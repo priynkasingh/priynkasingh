@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @priynkasingh
 - 🎓 I’m a Biochemical Engg graduate with a Econ minor from IIT Delhi
-- 🌱 I’m currently working as a JAVA Developer in the FinTech Domain 
-- 📫 Transitioning to Data Science in the meanwhile
+- 🌱 I'm a Data Scientist at LinkedIn
